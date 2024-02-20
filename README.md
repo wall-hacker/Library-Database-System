@@ -10,7 +10,7 @@
 ### Description
 - - -  
 
-This project is a library backend system that simulates the functionality of a library, allowing users to perform operations such as adding, borrowing, and returning books, as well as managing user accounts. It utilizes data structures like linked lists and hash tables to efficiently store and manage books and user information, while implementing various commands to handle library operations effectively.
+This project is a library backend system, 'The Library of HashBabel' that simulates the functionality of a library, allowing users to perform operations such as adding, borrowing, and returning books, as well as managing user accounts. It utilizes data structures like linked lists and hash tables to efficiently store and manage books and user information, while implementing various commands to handle library operations effectively.
 
 - - -
 ### Structure && Implementation 
